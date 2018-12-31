@@ -1,6 +1,6 @@
 # Multiple classes lab
 
-Week 2, Day 2 Lab at Codeclan. Pair programmed with Rebekah Dixon to demonstrated TDD using multiple classes at a time.
+Week 2, Day 2 Lab at Codeclan. Pair programmed with Rebekah Dixon to demonstrate TDD using multiple classes at a time.
 
 ## Original brief:
 
